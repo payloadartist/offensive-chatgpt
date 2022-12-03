@@ -1,5 +1,5 @@
 """
-Usage: python3 bruteforcer.py https://example.org directory_list.txt
+Usage: python3 directory_brute_force.py https://example.org directory_list.txt
 Credits: ChatGPT
 """
 import argparse
