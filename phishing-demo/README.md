@@ -4,5 +4,5 @@
 - Don't use it for malicious purposes.
 
 ## Purposes
-- Could be useful for redteaming, and social engineering exercises.
+- Could be useful for ethical/legitimate redteaming, and social engineering exercises.
 - Strictly for educational purposes. Don't abuse it.
